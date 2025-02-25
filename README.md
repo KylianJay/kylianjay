@@ -7,10 +7,10 @@ Full-stack Software Developer
 Owner of KJAY, webhosting/domains and tailor made websites!
 
 * 🌍  I'm based in Apeldoorn, Netherlands
-* 🖥️  See my portfolio at [KJAY](http://kjay.dev)
+* 🖥️  See my portfolio at [KJAY](http://kjay.nl)
 * ✉️  You can contact me at [kylian@kjay.dev](mailto:kylian@kjay.dev)
-* 🚀  I'm currently working on [An interactive dashboard application... more about that soon!](http://kjay.dev)
-* 🧠  I'm learning React Native, amongst other modern web and app frameworks
+* 🚀  I'm currently working on [Building my hosting and web development startup!](http://kjay.nl)
+* 🧠  I'm learning React, Flutter and Laravel amongst other modern web and app frameworks.
 
 ### Skills
 
