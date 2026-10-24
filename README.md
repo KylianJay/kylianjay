@@ -10,7 +10,7 @@ Owner of KJAY, webhosting/domains and tailor made websites!
 * 🖥️  See my portfolio at [KJAY](http://kjay.nl)
 * ✉️  You can contact me at [kylian@kjay.dev](mailto:kylian@kjay.dev)
 * 🚀  I'm currently working on [Building my hosting and web development startup!](http://kjay.nl)
-* 🧠  I'm learning React, Flutter and Laravel amongst other modern web and app frameworks.
+* 🧠  I'm learning React Native, Flutter, Next.js and Laravel amongst other modern web and app frameworks.
 
 ### Skills
 
